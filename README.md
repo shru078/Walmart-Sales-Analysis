@@ -3,7 +3,7 @@ The Walmart Superstore analyze its sales data to gain insights into its performa
 
 Dataset link- https://drive.google.com/file/d/1qPwx6ye6_2BRGR0pUrgEX8wm7grd-LJm/view?usp=share_link
 
-# probleam statement
+# Probleam Statement
 The company has a vast amount of sales data, including information on products, customers, stores, and transactions. The main objective is to extract meaningful insights from this data to analyse the overall sales of walmart superstore.
 
 
