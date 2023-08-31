@@ -7,7 +7,7 @@ Dataset link- https://drive.google.com/file/d/1qPwx6ye6_2BRGR0pUrgEX8wm7grd-LJm/
 The company has a vast amount of sales data, including information on products, customers, stores, and transactions. The main objective is to extract meaningful insights from this data to analyse the overall sales of walmart superstore. 
 
 # Overview
-I have data of walmart sales from year 2011 to 2014 which shows the sales throughout year.
+Here we can walmart sales data from year 2011 to 2014 which shows the sales throughout year.
 I have Distributed sales data in 3 Dashboards.
 
 Where in, 1st Dashboard shows overall sales from 2011 to 2014.
