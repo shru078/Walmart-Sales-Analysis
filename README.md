@@ -10,11 +10,11 @@ The company has a vast amount of sales data, including information on products, 
 Here we have walmart sales data from year 2011 to 2014 which shows the sales throughout year.
 I have Distributed sales data in 3 Dashboards.
 
-Where in, 1st Dashboard shows overall sales from 2011 to 2014.
+Where in, 1st Dashboard shows overall sales analysis from 2011 to 2014.
 
-2nd dasboard shows the overall sales focused on customers throughout the year.
+2nd dasboard shows the overall sales analysis focused on customers throughout the year.
 
-3rd Dashboard shows the overall product sales.
+3rd Dashboard shows the overall product sales analysis.
 
 
 ![image](https://github.com/shru078/Walmart-Sales-Analysis/assets/122980571/b5f083d2-668d-4879-9d26-30b5f8cd5da7)
